@@ -9,6 +9,7 @@
 - Twitter Bot
   - JSALStats 
 - Discord Bots 
+- micro:bit Stuff
 
 # Other random stuff
 
