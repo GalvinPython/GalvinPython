@@ -14,11 +14,14 @@
 
 <p align="center">
 <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GalvinPython&theme=highcontrast&hide_border=true&background=1833FF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=DDDDDD&sideLabels=EBEBEB&dates=EBEBEB">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GalvinPython&theme=highcontrast&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=DDDDDD&sideLabels=EBEBEB&dates=EBEBEB" height="225">
 </a>
 <br>
 <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalvinPython&layout=compact&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true&langs_count=4"  height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalvinPython&layout=compact&bg_color=0d1117&text_color=EBEBEB&title_color=FFF&langs_count=6"  height="225">
+</a>
+<a href="#">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galvinpython&theme=github">
 </a>
 </p>
 
@@ -26,7 +29,10 @@
 <p align="center">
 
 <a href="https://github.com/GalvinPython/jsalstats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=1833ff&text_color=EBEBEB&title_color=FFF&hide_border=true"  height="100">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125">
+</a>
+<a href="https://github.com/GalvinPython/deletejavacheck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=DeleteJavaCheck&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125">
 </a>
 
 <br>
