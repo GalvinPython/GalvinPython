@@ -105,16 +105,28 @@
 </a>
 </p>
 
-<!-- <h1 align="center">Socials</h1>
+<h1 align="center">Socials / Contact</h1>
 <p align="center">
+    <a href="https://github.com/GalvinPython">
+        <img src="https://img.shields.io/github/followers/galvinpython?style=for-the-badge">
+    </a>
     <a href="https://twitter.com/egalvinyt">
         <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="mailto:">
+    <a href="mailto:redblockyt63@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <!--<a href="">
+        <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="">
+        <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/[channel]?style=for-the-badge">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>-->
     <br>
-</p> -->
+</p>
 
 <h1 align="center">Other</h1>
 <br>
