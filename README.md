@@ -18,7 +18,7 @@
 </a>
 <br>
 <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GalvinPython&layout=compact&bg_color=0d1117&text_color=EBEBEB&title_color=FFF&langs_count=6"  height="225" alt="Top languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GalvinPython&layout=compact&bg_color=0d1117&text_color=EBEBEB&title_color=FFF&langs_count=6"  height="225" alt="Top languages">
 </a>
 <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galvinpython&theme=github" alt="Profile details">
@@ -29,10 +29,10 @@
 <p align="center">
 
 <a href="https://github.com/GalvinPython/jsalstats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Workging on JSALStats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Workging on JSALStats">
 </a>
 <a href="https://github.com/GalvinPython/deletejavacheck">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GalvinPython&repo=DeleteJavaCheck&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Working on DeleteJavaCheck">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=DeleteJavaCheck&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Working on DeleteJavaCheck">
 </a>
 
 <br>
