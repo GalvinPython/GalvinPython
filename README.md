@@ -42,8 +42,9 @@
 
 <h1 align="center"> Languages, Skills & Tools </h1>
 
+<!-- General Languages -->
 <p align="center">
-<!-- LANGUAGES - GENERAL -->
+<b>Languages</b><br>
 <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </a>
@@ -56,7 +57,7 @@
 
 <br>
 
-<!-- LANGUAGES - WEB -->
+<!-- Web Dev -->
 <a href="https://wikipedia.org/wiki/HTML5">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
@@ -66,23 +67,34 @@
 <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
+</p>
 
 <br>
 
-<!-- SKILLS - API -->
-<a href="https://developer.twitter.com">
-    <img src="https://img.shields.io/badge/Twitter%20API-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
-</a>
+<p align="center">
+<b>Skills</b><br>
+<!-- API -->
 <a href="https://discord.com/developers/applications">
     <img src="https://img.shields.io/badge/Discord%20api-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API">
 </a>
 <a href="https://developers.google.com/youtube/v3">
     <img src="https://img.shields.io/badge/youtube%20api-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API V3">
 </a>
-
+    
 <br>
 
-<!-- TOOLS - DEV -->
+<!-- Other -->
+<a href="https://www.photopea.com/">
+    <img src="https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea">
+</a>
+<a href="https://www.blackmagicdesign.com/products/davinciresolve">
+    <img src="https://img.shields.io/badge/davinci%20resolve-383838.svg?style=for-the-badge" alt="DaVinci Resolve">
+</a>
+</>
+    
+<p align="center">
+<b>Tools</b><br>
+<!-- Development -->
 <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
@@ -92,16 +104,28 @@
 <a href="https://visualstudio.microsoft.com/">
     <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
 </a>
+</p>
 
+<h1 align="center">Currently Learning / Former Works</h1>
+<p align="center">
+<b>Learning</b><br>
+<a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
+</a>
+<a href="https://create.roblox.com/creations">
+    <img src="https://img.shields.io/badge/Roblox%20Studio-000000.svg?style=for-the-badge&logo=Roblox&logoColor=white" alt="Roblox Studio">
+</a> 
+<a href="https://www.lua.org/">
+    <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua">
+</a>
+</p>
 
 <br>
 
-<!-- TOOLS - OTHER -->
-<a href="https://www.photopea.com/">
-    <img src="https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea">
-</a>
-<a href="https://www.blackmagicdesign.com/products/davinciresolve">
-    <img src="https://img.shields.io/badge/davinci%20resolve-383838.svg?style=for-the-badge" alt="DaVinci Resolve">
+<p align="center">    
+<b>Formerly Worked On</b><br>
+<a href="https://developer.twitter.com">
+    <img src="https://img.shields.io/badge/Twitter%20API-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
 </a>
 </p>
 
