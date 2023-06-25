@@ -28,11 +28,14 @@
 <h1 align="center"> Working on: </h1>
 <p align="center">
 
-<a href="https://github.com/GalvinPython/jsalstats">
+<!-- <a href="https://github.com/GalvinPython/jsalstats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Workging on JSALStats">
-</a>
+</a> -->
 <a href="https://github.com/GalvinPython/deletejavacheck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=DeleteJavaCheck&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Working on DeleteJavaCheck">
+</a>
+<a href="https://github.com/GalvinPython/globalclicker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=GlobalClicker&bg_color=0d1117&text_color=EBEBEB&title_color=FFF"  height="125" alt="Working on GlobalClicker">
 </a>
 
 <br>
@@ -137,7 +140,7 @@
     <a href="https://twitter.com/egalvinyt">
         <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="mailto:redblockyt63@gmail.com">
+    <a href="mailto:galvinpython@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <!--<a href="">
