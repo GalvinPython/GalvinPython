@@ -140,7 +140,7 @@
     <a href="https://twitter.com/egalvinyt">
         <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="mailto:galvinpython@gmail.com">
+    <a href="mailto:galvin@galvindev.me.uk">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <!--<a href="">
