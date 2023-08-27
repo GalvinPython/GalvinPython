@@ -112,21 +112,16 @@
 <h1 align="center">Currently Learning / Former Works</h1>
 <p align="center">
 <b>Learning</b><br>
-<a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black" alt="Unity">
-</a>
-<a href="https://create.roblox.com/creations">
-    <img src="https://img.shields.io/badge/Roblox%20Studio-000000.svg?style=for-the-badge&logo=Roblox&logoColor=white" alt="Roblox Studio">
-</a> 
-<a href="https://www.lua.org/">
-    <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" alt="Lua">
-</a>
+Nothing currently. Working on projects with languages I already know
+<!--<a href="">
+    <img src="" alt="">
+</a>-->
 </p>
 
 <br>
 
 <p align="center">    
-<b>Formerly Worked On</b><br>
+<b>Previously Worked With</b><br>
 <a href="https://developer.twitter.com">
     <img src="https://img.shields.io/badge/Twitter%20API-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
 </a>
@@ -141,16 +136,13 @@
         <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
     <a href="mailto:galvin@galvindev.me.uk">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <!--<a href="">
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="">
         <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/[channel]?style=for-the-badge">
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>-->
     <br>
 </p>
