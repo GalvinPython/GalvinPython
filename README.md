@@ -1,9 +1,6 @@
-<!-- Hello, World! -->
-<h1 align="center">
-    <a href="#">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=violet&size=35&center=true&vCenter=true&lines=Hello%2C+World!" alt="Hello World!">
-    </a>
-</h1>
+<h1 align="center">Hi, I'm Galvin 👋</h1>
+<h3 align="center">A 17-year-old JavaScript/TypeScript, C# and Python developer (Learning Java)</h3>
+<h3 align="center">Working on Discord Bots, Software and Websites (Minecraft Mods soon)</h3>
 
 <!-- Trophies -->
 <p align="center">
@@ -52,36 +49,64 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
 </a>
-<a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-h9f63.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.JS">
+<a href="">
+    <img src="https://img.shields.io/badge/Java-f89820.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java">
 </a>
-
 <br>
 
+<!-- Node.JS -->
+<a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.JS">
+</a>
+<a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript">
+</a>
+
+<br />
 <!-- Web Dev -->
 <a href="https://wikipedia.org/wiki/HTML5">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
 <a href="https://wikipedia.org/wiki/CSS">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </a>
-<a href="https://www.javascript.com/">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-</a>
+
 </p>
 
 <br>
 
 <p align="center">
+<b>JavaScript Libraries</b><br>
+<a href="">
+    <img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="ReactJS">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/astro (Learning)-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
+</a>
+</p>
+
+<p align="center">
 <b>Skills</b><br>
 <!-- API -->
 <a href="https://discord.com/developers/applications">
-    <img src="https://img.shields.io/badge/Discord%20api-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API">
+    <img src="https://img.shields.io/badge/Discord%20api-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API">
 </a>
 <a href="https://developers.google.com/youtube/v3">
     <img src="https://img.shields.io/badge/youtube%20api-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube API V3">
+</a>
+<a href="https://developer.twitter.com">
+    <img src="https://img.shields.io/badge/X (Twitter) API-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter API">
 </a>
     
 <br>
@@ -92,6 +117,12 @@
 </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve">
     <img src="https://img.shields.io/badge/davinci%20resolve-383838.svg?style=for-the-badge" alt="DaVinci Resolve">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Premiere Pro">
 </a>
 </>
     
@@ -109,23 +140,7 @@
 </a>
 </p>
 
-<h1 align="center">Currently Learning / Former Works</h1>
-<p align="center">
-<b>Learning</b><br>
-Nothing currently. Working on projects with languages I already know
-<!--<a href="">
-    <img src="" alt="">
-</a>-->
-</p>
-
 <br>
-
-<p align="center">    
-<b>Previously Worked With</b><br>
-<a href="https://developer.twitter.com">
-    <img src="https://img.shields.io/badge/Twitter%20API-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter API">
-</a>
-</p>
 
 <h1 align="center">Socials / Contact</h1>
 <p align="center">
@@ -133,10 +148,13 @@ Nothing currently. Working on projects with languages I already know
         <img src="https://img.shields.io/github/followers/galvinpython?style=for-the-badge">
     </a>
     <a href="https://twitter.com/egalvinyt">
-        <img src="https://img.shields.io/badge/Twitter-%2300acee?style=for-the-badge&logo=twitter&logoColor=white">
+        <img src="https://img.shields.io/badge/X (Twitter)-egalvinyt-000000?style=for-the-badge&logo=x&logoColor=white">
     </a>
     <a href="mailto:galvin@galvindev.me.uk">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Email-galvin@galvindev.me.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://discord.com">
+        <img src="https://img.shields.io/badge/Discord-GalvinPython-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GalvinPython">
     </a>
     <!--<a href="">
         <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -150,4 +168,34 @@ Nothing currently. Working on projects with languages I already know
 <h1 align="center">Other</h1>
 <br>
 
-<p>I am called GalvinPython as Python is the language I use the most, mainly on college projects, which I can't publicly publish</p>
+<!--
+<p align="center">
+<b>Operating Systems</b><br>
+<a href="">
+    <img src="https://img.shields.io/badge/Windows 11-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white" alt="">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/ubuntu (WSL)-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="">
+</a>
+</p>
+
+<p align="center">
+<b>PC Specs</b><br>
+<a href="">
+    <img src="https://img.shields.io/badge/CPU-Ryzen 7 3700x-ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white" alt="">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/RAM-32GB-000000.svg?style=for-the-badge&logo=corsair&logoColor=white" alt="">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/GPU-NVIDIA 3060TI-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="">
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/Motherboard-MSI B550M GAMING PLUS-FF0000.svg?style=for-the-badge&logo=msi&logoColor=white" alt="">
+</a>
+</p>
+-->
+
+
+<b>If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context</b>
+<p>README still in progress :)</p>
