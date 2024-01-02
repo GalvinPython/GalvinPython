@@ -150,8 +150,8 @@
     <a href="https://twitter.com/egalvinyt">
         <img src="https://img.shields.io/badge/X (Twitter)-egalvinyt-000000?style=for-the-badge&logo=x&logoColor=white">
     </a>
-    <a href="mailto:galvin@galvindev.me.uk">
-        <img src="https://img.shields.io/badge/Email-galvin@galvindev.me.uk-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:hey@stats100.xyz">
+        <img src="https://img.shields.io/badge/Email-hey@stats100.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://discord.com">
         <img src="https://img.shields.io/badge/Discord-GalvinPython-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: GalvinPython">
