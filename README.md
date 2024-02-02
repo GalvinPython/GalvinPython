@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Galvin 👋</h1>
-<h3 align="center">An 18-year-old JavaScript/TypeScript, C# and Python developer (Learning Java)</h3>
-<h3 align="center">Working on Discord Bots, Software and Websites (Minecraft Mods soon)</h3>
+<h3 align="center">An 18-year-old JavaScript/TypeScript, C# and Python developer</h3>
+<h3 align="center">Working on Discord Bots, Software and Websites</h3>
 
 <!-- Trophies -->
 <p align="center">
