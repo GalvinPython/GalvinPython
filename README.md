@@ -147,8 +147,8 @@
     <a href="https://github.com/GalvinPython">
         <img src="https://img.shields.io/github/followers/galvinpython?style=for-the-badge">
     </a>
-    <a href="https://twitter.com/egalvinyt">
-        <img src="https://img.shields.io/badge/X (Twitter)-egalvinyt-000000?style=for-the-badge&logo=x&logoColor=white">
+    <a href="https://twitter.com/reallygalvin">
+        <img src="https://img.shields.io/badge/X (Twitter)-ReallyGalvin-000000?style=for-the-badge&logo=x&logoColor=white">
     </a>
     <a href="mailto:hey@stats100.xyz">
         <img src="https://img.shields.io/badge/Email-hey@stats100.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white">
