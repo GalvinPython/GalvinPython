@@ -22,8 +22,7 @@ jobs:
 
     - name: Install dependencies
       run: npm install
-      working-directory: .github/actions/update-youtube-readme
-
+      
     - name: Update README
       uses: GalvinPython/youtube-readme@0.1-rc1
       with:
