@@ -1,0 +1,22 @@
+name: Update README with latest YouTube videos
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Update README
+      uses: GalvinPython/youtube-readme@0.1-rc1
+      with:
+        youtube_channel_id: 'UCGJXFC0YsDzVP3ar8RzhCmA'
+        readme_file_path: 'README.md'
