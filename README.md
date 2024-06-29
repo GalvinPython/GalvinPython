@@ -63,4 +63,7 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 - ![GPU: NVIDIA 3060TI](https://img.shields.io/badge/GPU-NVIDIA%203060TI-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 - ![Motherboard: MSI B550M GAMING PLUS](https://img.shields.io/badge/Motherboard-MSI%20B550M%20GAMING%20PLUS-FF0000.svg?style=for-the-badge&logo=msi&logoColor=white)
 
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 **If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context.**
