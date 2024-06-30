@@ -63,12 +63,9 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 - ![GPU: NVIDIA 3060TI](https://img.shields.io/badge/GPU-NVIDIA%203060TI-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 - ![Motherboard: MSI B550M GAMING PLUS](https://img.shields.io/badge/Motherboard-MSI%20B550M%20GAMING%20PLUS-FF0000.svg?style=for-the-badge&logo=msi&logoColor=white)
 
+## Videos
+### Stats100
 <!-- YOUTUBE:START -->
-- [[375 DAYS] MRBEAST BECOMING THE MOST-SUBSCRIBED CHANNEL](https://www.youtube.com/watch?v=cWSH5L2yh90)
-- [MrBeast Hits 264 Million Subs! #Shorts](https://www.youtube.com/watch?v=hCNupZN1Clg)
-- [MRBEAST RISING: TO 300 MILLION SUBSCRIBERS](https://www.youtube.com/watch?v=G-XWk9DQnRE)
-- [FASTEST CHANNELS ON YOUTUBE - MRBEAST, STOKES TWINS, ZAMZAM, MARK ROBER](https://www.youtube.com/watch?v=CpcpDRoRgBQ)
-- [FASTEST CHANNELS ON YOUTUBE - MRBEAST, STOKES TWINS, ZAMZAM, MARK ROBER](https://www.youtube.com/watch?v=73dM62PCHNw)
-
+<!-- YOUTUBE:END -->
 
 **If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context.**
