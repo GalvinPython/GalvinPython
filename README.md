@@ -69,7 +69,7 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 - [MRBEAST HITTING 300 MILLION SUBSCRIBERS TIMELAPSE](https://www.youtube.com/watch?v=TYWlBjd0mes)
 - [[375 DAYS] MRBEAST BECOMING THE MOST-SUBSCRIBED CHANNEL](https://www.youtube.com/watch?v=cWSH5L2yh90)
 - [MrBeast Hits 264 Million Subs! #Shorts](https://www.youtube.com/watch?v=hCNupZN1Clg)
-- [MRBEAST RISING: IS A BILLION POSSIBLE?](https://www.youtube.com/watch?v=G-XWk9DQnRE)
+- [MRBEAST TO 500 MILLION SUBSCRIBERS](https://www.youtube.com/watch?v=G-XWk9DQnRE)
 - [FASTEST CHANNELS ON YOUTUBE - MRBEAST, STOKES TWINS, ZAMZAM, MARK ROBER](https://www.youtube.com/watch?v=CpcpDRoRgBQ)
 <!-- YOUTUBE:END -->
 
