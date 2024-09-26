@@ -1,6 +1,6 @@
 # Hi, I'm Galvin 👋
 
-I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate about creating bots, software, and websites.
+I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer passionate about creating bots, software, Minecraft Mods, and websites.
 
 ## Trophies
 ![Trophy case](https://github-profile-trophy.vercel.app/?username=GalvinPython&theme=radical&no-bg=true&no-frame=true&column=6)
@@ -12,10 +12,10 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galvinpython&theme=github)
 
 ## My Favorite Project
-[![Working on JSALStats](https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF)](https://github.com/GalvinPython/jsalstats)
+<!--[![Working on JSALStats](https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF)](https://github.com/GalvinPython/jsalstats)-->
 
 ## Languages, Skills & Tools
-
+<!-- Dear Microsoft, thanks for removing your icons from simpleicons making these badges look weird 👍 -->
 ### Languages
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -28,14 +28,14 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 - ![ReactJS](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 - ![NextJS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![ExpressJS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-- ![Astro](https://img.shields.io/badge/astro%20(Learning)-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
+- ![Astro](https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Skills
 - ![Discord API](https://img.shields.io/badge/Discord%20api-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 - ![YouTube API V3](https://img.shields.io/badge/youtube%20api-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 - ![Twitter API](https://img.shields.io/badge/X%20(Twitter)%20API-000000.svg?style=for-the-badge&logo=x&logoColor=white)
 - ![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white)
-- ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-383838.svg?style=for-the-badge)
+- ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 - ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 - ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
@@ -43,11 +43,12 @@ I'm an 18-year-old JavaScript/TypeScript, C#, and Python developer passionate ab
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 - ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+- ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ## Socials / Contact
 - ![GitHub followers](https://img.shields.io/github/followers/galvinpython?style=for-the-badge)
 - ![Twitter](https://img.shields.io/badge/X%20(Twitter)-ReallyGalvin-000000?style=for-the-badge&logo=x&logoColor=white)
-- ![Email](https://img.shields.io/badge/Email-hey@stats100.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Email](https://img.shields.io/badge/Email-galvinpython@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ![Discord](https://img.shields.io/badge/Discord-imgalvin-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Other
