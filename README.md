@@ -1,6 +1,6 @@
 # Hi, I'm Galvin 👋
 
-I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer passionate about creating bots, software, Minecraft Mods, and websites.
+I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and student!) passionate about creating bots, software, Minecraft Mods, and websites.
 
 ## Trophies
 ![Trophy case](https://github-profile-trophy.vercel.app/?username=GalvinPython&theme=radical&no-bg=true&no-frame=true&column=6)
