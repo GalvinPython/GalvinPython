@@ -67,11 +67,11 @@ I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and st
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
-- [FASTEST CHANNELS ON YOUTUBE - RONALDO, MRBEAST, STOKES TWINS, ZAMZAM, MARK ROBER](https://www.youtube.com/watch?v=FiswWwBC8OU)
 - [JackSucksAtEspanol Overtaking JackSucksAtStuff!](https://www.youtube.com/watch?v=pk3ZNfx-ejA)
 - [JackSucksAtStuff vs JackSucksAtEspanol LIVE](https://www.youtube.com/watch?v=EccI4nHFpmA)
 - [MRBEAST HITTING 300 MILLION SUBSCRIBERS TIMELAPSE](https://www.youtube.com/watch?v=TYWlBjd0mes)
 - [[375 DAYS] MRBEAST BECOMING THE MOST-SUBSCRIBED CHANNEL](https://www.youtube.com/watch?v=cWSH5L2yh90)
+- [MrBeast Hits 264 Million Subs! #Shorts](https://www.youtube.com/watch?v=hCNupZN1Clg)
 <!-- YOUTUBE:END -->
 
 **If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context.**
