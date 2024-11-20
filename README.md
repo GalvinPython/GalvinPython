@@ -17,14 +17,15 @@ I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and st
 ## Languages, Skills & Tools
 <!-- Dear Microsoft, thanks for removing your icons from simpleicons making these badges look weird 👍 -->
 ### Languages
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- ![C#](https://img.shields.io/badge/c%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-f89820.svg?style=for-the-badge&logo=openjdk&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-FF1464.svg?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
+- ![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 ### JavaScript Libraries
+- ![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 - ![ReactJS](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 - ![NextJS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 - ![ExpressJS](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
@@ -34,16 +35,20 @@ I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and st
 - ![Discord API](https://img.shields.io/badge/Discord%20api-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 - ![YouTube API V3](https://img.shields.io/badge/youtube%20api-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 - ![Twitter API](https://img.shields.io/badge/X%20(Twitter)%20API-000000.svg?style=for-the-badge&logo=x&logoColor=white)
-- ![Photopea](https://img.shields.io/badge/photopea-18A497.svg?style=for-the-badge&logo=photopea&logoColor=white)
 - ![DaVinci Resolve](https://img.shields.io/badge/davinci%20resolve-233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-- ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+- ![Adobe Premiere Pro](https://custom-icon-badges.demolab.com/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+- ![Adobe Photoshop](https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ### Tools
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-- ![Visual Studio](https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+- ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ![Visual Studio](https://custom-icon-badges.demolab.com/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 - ![IntelliJ IDEA](https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+### Databases
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
+- ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Sqlite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Socials / Contact
 - ![GitHub followers](https://img.shields.io/github/followers/galvinpython?style=for-the-badge)
@@ -54,8 +59,8 @@ I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and st
 ## Other
 
 ### Operating Systems
-- ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows&logoColor=white)
-- ![Ubuntu (WSL)](https://img.shields.io/badge/ubuntu%20(WSL)-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white)
+- ![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Pi OS](https://img.shields.io/badge/Pi%20OS-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### PC Specs
