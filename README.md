@@ -72,7 +72,7 @@ I'm an 18-year-old JavaScript/TypeScript, Java, C#, and Python developer (and st
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
-- [Stokes Twins to 100 Million Subscribers [LIVE]](https://www.youtube.com/watch?v=PPfZ8_a1L_Y)
+- [Stokes Twins RACE to 100 Million Subscribers LIVE](https://www.youtube.com/watch?v=PPfZ8_a1L_Y)
 - [FASTEST CHANNELS ON YOUTUBE - MRBEAST, STOKES TWINS, KIMPRO, RONALDO](https://www.youtube.com/watch?v=5GucXPEXWbs)
 - [JackSucksAtEspanol Overtaking JackSucksAtStuff!](https://www.youtube.com/watch?v=pk3ZNfx-ejA)
 - [JackSucksAtStuff vs JackSucksAtEspanol LIVE](https://www.youtube.com/watch?v=EccI4nHFpmA)
