@@ -72,7 +72,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
-- [More MrBeast Gaming TO 100K SUBSCRIBERS](https://www.youtube.com/watch?v=WlRDobja4og)
+- [LIVE - MrBeast's NEW CHANNEL TO 100K SUBSCRIBERS (More MrBeast Gaming)](https://www.youtube.com/watch?v=WlRDobja4og)
 - [TOP 50 FASTEST CHANNELS ON YOUTUBE - MRBEAST, KIMPRO AND MORE](https://www.youtube.com/watch?v=51au1DzjyoU)
 - [FASTEST CHANNELS ON YOUTUBE - MRBEAST, STOKES TWINS, RONALDO AND MORE](https://www.youtube.com/watch?v=D_4b7GbapMM)
 - [Stokes Twins Hitting 100 MILLION SUBSCRIBERS](https://www.youtube.com/watch?v=E2sfYt6fR4k)
