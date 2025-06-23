@@ -22,7 +22,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 - ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-FF1464.svg?style=for-the-badge&logo=eclipseadoptium&logoColor=white)
 - ![C#](https://custom-icon-badges.demolab.com/badge/C%23-512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### JavaScript Libraries
 - ![Bun](https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white)
@@ -53,7 +53,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 ## Socials / Contact
 - ![GitHub followers](https://img.shields.io/github/followers/galvinpython?style=for-the-badge)
 - ![Twitter](https://img.shields.io/badge/X%20(Twitter)-ReallyGalvin-000000?style=for-the-badge&logo=x&logoColor=white)
-- ![Email](https://img.shields.io/badge/Email-galvinpython@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Email](https://img.shields.io/badge/Email-imgalvin@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 - ![Discord](https://img.shields.io/badge/Discord-imgalvin-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## Other
@@ -62,6 +62,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 - ![Windows 11](https://custom-icon-badges.demolab.com/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=windows11&logoColor=white)
 - ![Ubuntu Server](https://img.shields.io/badge/ubuntu%20server-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 - ![Pi OS](https://img.shields.io/badge/Pi%20OS-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+- ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ### PC Specs
 - ![CPU: Ryzen 7 3700x](https://img.shields.io/badge/CPU-Ryzen%207%203700x-ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
