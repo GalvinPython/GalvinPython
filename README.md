@@ -51,7 +51,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 - ![Sqlite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Socials / Contact
-- ![GitHub followers](https://img.shields.io/github/followers/galvinpython?style=for-the-badge)
+- ![GitHub followers](https://img.shields.io/github/followers/galvinpython?style=for-the-badge&logo=github&logoColor=white)
 - ![Twitter](https://img.shields.io/badge/X%20(Twitter)-ReallyGalvin-000000?style=for-the-badge&logo=x&logoColor=white)
 - ![Email](https://img.shields.io/badge/Email-imgalvin@pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 - ![Discord](https://img.shields.io/badge/Discord-imgalvin-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
