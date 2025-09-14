@@ -73,11 +73,11 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
+- [TOP 50 FASTEST CHANNELS: 4th August - 10th August](https://www.youtube.com/watch?v=WloJoDYx5J4)
 - [#TeamWater Hitting $40 Million Timelapse](https://www.youtube.com/watch?v=UprNU-Ph_kQ)
 - [TOP 50 FASTEST CHANNELS: 27th July - 3rd August](https://www.youtube.com/watch?v=bD1oYXv5wzo)
 - [MRBEAST HITTING 400 MILLION SUBSCRIBERS [TIMELAPSE]](https://www.youtube.com/watch?v=DKd0alYfK7g)
 - [MRBEAST HITTING 400 MILLION SUBSCRIBERS LIVE](https://www.youtube.com/watch?v=M_LMEzYUCzY)
-- [TOP 50 FASTEST CHANNELS ON YOUTUBE - ALEJOIGOA, MRBEAST, A4+ MORE](https://www.youtube.com/watch?v=1u3zdX0t4iQ)
 <!-- YOUTUBE:END -->
 
 **If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context.**
