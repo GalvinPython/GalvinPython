@@ -1,6 +1,17 @@
 # Hi, I'm Galvin 👋
 
-I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and student!) passionate about creating bots, software, Minecraft Mods, and websites.
+Hi, I’m Galvin - a 19-year-old student developer from London passionate about creating tools, mods and websites for others to enjoy. Lead developer for [SocialStats](https://socialstats.app), which tracks social media analytics!
+
+🧠 Languages I work with:
+- 💙 TypeScript / JavaScript (main focus)
+- ☕ Java, 🧩 C#, 🐍 Python
+- ⚙️ Currently exploring Rust & C++
+
+🧱 Projects I love working on:
+- Minecraft Mods 🧊
+- Discord Bots 🤖
+- Browser Extensions 🌐
+- Random YouTube & Full-Stack Experiments 🎥
 
 ## Trophies
 ![Trophy case](https://github-profile-trophy.vercel.app/?username=GalvinPython&theme=radical&no-bg=true&no-frame=true&column=6)
@@ -12,10 +23,9 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 ![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galvinpython&theme=github)
 
 ## My Favorite Project
-<!--[![Working on JSALStats](https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=JSALStats&bg_color=0d1117&text_color=EBEBEB&title_color=FFF)](https://github.com/GalvinPython/jsalstats)-->
+[![Working on Feedr](https://github-readme-stats.vercel.app/api/pin/?username=GalvinPython&repo=Feedr&bg_color=0d1117&text_color=EBEBEB&title_color=FFF)](https://github.com/GalvinPython/feedr)
 
 ## Languages, Skills & Tools
-<!-- Dear Microsoft, thanks for removing your icons from simpleicons making these badges look weird 👍 -->
 ### Languages
 - ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -65,9 +75,9 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 - ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ### PC Specs
-- ![CPU: Ryzen 7 3700x](https://img.shields.io/badge/CPU-Ryzen%207%203700x-ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
+- ![CPU: Ryzen 7 3700X](https://img.shields.io/badge/CPU-Ryzen%207%203700x-ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 - ![RAM: 32GB](https://img.shields.io/badge/RAM-32GB-000000.svg?style=for-the-badge&logo=corsair&logoColor=white)
-- ![GPU: NVIDIA 3060TI](https://img.shields.io/badge/GPU-NVIDIA%203060TI-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+- ![GPU: NVIDIA 3060 Ti](https://img.shields.io/badge/GPU-NVIDIA%203060%20TI-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 - ![Motherboard: MSI B550M GAMING PLUS](https://img.shields.io/badge/Motherboard-MSI%20B550M%20GAMING%20PLUS-FF0000.svg?style=for-the-badge&logo=msi&logoColor=white)
 
 ## Videos
@@ -80,4 +90,7 @@ I'm a 19-year-old JavaScript/TypeScript, Java, C#, and Python developer (and stu
 - [MRBEAST HITTING 400 MILLION SUBSCRIBERS LIVE](https://www.youtube.com/watch?v=M_LMEzYUCzY)
 <!-- YOUTUBE:END -->
 
-**If you wish to message me (especially on Twitter or Discord), please do not say "hi" and not elaborate. I will not reply without context.**
+---
+
+💼 I'm open to Work  
+I'm open to internships, freelance work, or collaborations - just reach out on the email address linked above!
