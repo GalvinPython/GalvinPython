@@ -83,11 +83,11 @@ Hi, I’m Galvin - a 19-year-old student developer from London passionate about 
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
-- [I'm recording and editing the next video live](https://www.youtube.com/watch?v=DCL5ZCNS0S4)
 - [Turning Channels Into Bubbles (Coding a Future Stream)](https://www.youtube.com/watch?v=Mw21f69hqZw)
 - [TOP 50 FASTEST CHANNELS: 4th August - 10th August](https://www.youtube.com/watch?v=WloJoDYx5J4)
 - [#TeamWater Hitting $40 Million Timelapse](https://www.youtube.com/watch?v=UprNU-Ph_kQ)
 - [TOP 50 FASTEST CHANNELS: 27th July - 3rd August](https://www.youtube.com/watch?v=bD1oYXv5wzo)
+- [MRBEAST HITTING 400 MILLION SUBSCRIBERS [TIMELAPSE]](https://www.youtube.com/watch?v=DKd0alYfK7g)
 <!-- YOUTUBE:END -->
 
 ---
