@@ -21,7 +21,7 @@ jobs:
         node-version: '20'
 
     - name: Update README
-      uses: GalvinPython/youtube-readme@0.1-rc1
+      uses: GalvinPython/youtube-readme@1.1
       with:
         youtube_channel_id: 'UCGJXFC0YsDzVP3ar8RzhCmA'
         readme_file_path: 'README.md'
