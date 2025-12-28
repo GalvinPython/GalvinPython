@@ -1,6 +1,6 @@
 # Hi, I'm Galvin 👋
 
-Hi, I’m Galvin - a 19-year-old student developer from London passionate about creating tools, mods and websites for others to enjoy. Lead developer for [SocialStats](https://socialstats.app), which tracks social media analytics!
+Hi, I’m Galvin - a 20-year-old student developer from London passionate about creating tools, mods and websites for others to enjoy. Lead developer for [SocialStats](https://socialstats.app), which tracks social media analytics!
 
 🧠 Languages I work with:
 - 💙 TypeScript / JavaScript (main focus)
@@ -94,3 +94,4 @@ Hi, I’m Galvin - a 19-year-old student developer from London passionate about 
 
 💼 I'm open to Work  
 I'm open to internships, freelance work, or collaborations - just reach out on the email address linked above!
+
