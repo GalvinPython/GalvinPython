@@ -2,14 +2,14 @@ name: Update README with latest YouTube videos
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every 15 minutes
+    - cron: '0 */3 * * *'  # Runs every 3 hours, not that important lol
   push:
     branches:
       - main  # Trigger on push to main branch
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
 
     steps:
     - name: Checkout repository
