@@ -83,11 +83,11 @@ Hi, I’m Galvin - a 20-year-old student developer from London passionate about 
 ## Videos
 ### Stats100
 <!-- YOUTUBE:START -->
-- [TOP 50 FASTEST GROWING CHANNELS ON YOUTUBE - MRBEAST, NICK DIGIOVANNI + MORE](https://www.youtube.com/watch?v=l_xuak3Udnk)
 - [TOP 50 FASTEST CHANNELS: 4th August - 10th August](https://www.youtube.com/watch?v=WloJoDYx5J4)
 - [#TeamWater Hitting $40 Million Timelapse](https://www.youtube.com/watch?v=UprNU-Ph_kQ)
 - [TOP 50 FASTEST CHANNELS: 27th July - 3rd August](https://www.youtube.com/watch?v=bD1oYXv5wzo)
 - [MRBEAST HITTING 400 MILLION SUBSCRIBERS [TIMELAPSE]](https://www.youtube.com/watch?v=DKd0alYfK7g)
+- [MRBEAST HITTING 400 MILLION SUBSCRIBERS LIVE](https://www.youtube.com/watch?v=M_LMEzYUCzY)
 <!-- YOUTUBE:END -->
 
 ---
